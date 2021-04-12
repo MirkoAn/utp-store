@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
-
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
-  </head>
-  <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
-    <!-- <svg width="129" height="29" viewBox="0 0 129 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="129" height="29" viewBox="0 0 129 29" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M92.6736 21.5123H92.8631V19.6997H93.8315V24.758H92.8842V24.4208H92.6947C92.5052 24.6737 92.1894 24.8423 91.6842 24.8423C90.7369 24.8423 90.1685 24.0414 90.1685 22.9665C90.1685 21.8917 90.7369 21.0907 91.6842 21.0907C92.2105 21.0907 92.4842 21.2594 92.6736 21.5123ZM92.8842 22.9665C92.8842 22.3975 92.6105 21.8916 92.021 21.8916C91.4316 21.8916 91.1579 22.3553 91.1579 22.9665C91.1579 23.5567 91.4316 24.0414 92.021 24.0414C92.6315 24.0414 92.8842 23.5356 92.8842 22.9665Z" fill="black"></path>
       <path d="M97.8524 23.093H95.2841C95.3051 23.7042 95.5999 24.0625 96.1472 24.0625C96.5261 24.0625 96.7156 23.9361 96.8209 23.6831H97.8103C97.663 24.3997 97.1156 24.8634 96.1472 24.8634C95.0104 24.8634 94.3157 24.1047 94.3157 22.9665C94.3157 21.8284 95.0104 21.1118 96.1262 21.1118C97.2209 21.1118 97.8314 21.8284 97.8524 22.819V23.093ZM95.3262 22.4396H96.863C96.7998 22.0813 96.5683 21.8284 96.1262 21.8284C95.663 21.8284 95.4314 22.0813 95.3262 22.4396Z" fill="black"></path>
       <path d="M99.3261 19.6997H98.3577V24.758H99.3261V19.6997Z" fill="black"></path>
@@ -58,7 +24,4 @@
       <path d="M39.5989 21.7719V9.94805H34.2306V6.21753H49.788V9.94805H44.4198V21.7719H39.5989Z" fill="white"></path>
       <path d="M83.9992 0H56V28.0105H83.9992V0Z" fill="#D01A49"></path>
       <path d="M67.0524 16.5145V20.7719H62.2314V5.21753H74.9469L77.7889 7.85208V13.8799L74.9469 16.5145H67.0524ZM72.3154 8.96913H67.0524V12.805H72.3154L72.968 12.1517V9.6225L72.3154 8.96913Z" fill="white"></path>
-    </svg> -->
-
-  </body>
-</html>
+</svg>
